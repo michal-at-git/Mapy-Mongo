@@ -13,7 +13,9 @@
 }, 
 "properties": { 
   "marker-symbol": "library",
-  "name": "Moorside Library", 
+  "marker-color": "#ff77aa",
+  "marker-size": "large",
+  "name": "Moorside Library"
   } 
 },
 { 
@@ -27,7 +29,7 @@
   },
   "properties": {
     "marker-symbol": "library",
-    "name": "City Library", 
+    "name": "City Library"
   }
 },
 { "type": "Feature",  
@@ -40,7 +42,7 @@
 },
 "properties": {
   "marker-symbol": "library",
-  "name": "Cruddas Park Library",
+  "name": "Cruddas Park Library"
  }
 }
 
