@@ -29,6 +29,8 @@
   },
   "properties": {
     "marker-symbol": "library",
+    "marker-color": "#77aaff",
+    "marker-size": "medium",
     "name": "City Library"
   }
 },
@@ -42,6 +44,8 @@
 },
 "properties": {
   "marker-symbol": "library",
+    "marker-color": "#77aaff",
+    "marker-size": "medium",
   "name": "Cruddas Park Library"
  }
 }
