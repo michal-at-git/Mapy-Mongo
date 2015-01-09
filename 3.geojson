@@ -12,7 +12,7 @@
   },
   "properties": {
   "marker-symbol": "library",
-  "marker-color": "##ff5555",
+  "marker-color": "#ff5555",
   "marker-size": "medium",
   "name": "Newbiggin Hall Library"
   }
@@ -45,7 +45,7 @@
   },
   "properties": {
   "marker-symbol": "library",
-  "marker-color": "##ff5555",
+  "marker-color": "#ff5555",
   "marker-size": "medium",
   "name": "Gosforth Library"
   }
@@ -61,7 +61,7 @@
   },
   "properties": {
   "marker-symbol": "library",
-  "marker-color": "##ff5555",
+  "marker-color": "#ff5555",
   "marker-size": "medium",
   "name": "Outer West Library"
   }
@@ -152,7 +152,7 @@
   ] },
   "properties": {
   "marker-symbol": "library",
-  "marker-color": "##ff5555",
+  "marker-color": "#ff5555",
   "marker-size": "medium",
   "name": "Blakelaw Library"
   }
