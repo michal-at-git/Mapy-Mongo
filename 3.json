@@ -1,0 +1,291 @@
+{
+"type": "FeatureCollection",
+"features": [
+{    
+  "type": "Feature",
+  "geometry": {
+  "type": "Point",
+  "coordinates":  [
+  -1.687648,
+  55.006649
+  ] 
+  },
+  "properties": {
+  "marker-symbol": "library",
+  "marker-color": "##ff5555",
+  "marker-size": "medium",
+  "name": "Newbiggin Hall Library"
+  }
+},
+{    
+  "type": "Feature",
+  "geometry": {
+  "type": "Point",
+  "coordinates": [
+  -1.577799, 
+  54.976726 
+  ] 
+  },
+  "properties": {
+  "marker-symbol": "library",
+  "marker-color": "#77aaff",
+  "marker-size": "large",
+  "name": "East End Library"
+  }
+},
+
+{    
+  "type": "Feature",
+  "geometry": {
+  "type": "Point",
+  "coordinates": [
+  -1.622916,
+  55.010420 
+  ]
+  },
+  "properties": {
+  "marker-symbol": "library",
+  "marker-color": "##ff5555",
+  "marker-size": "medium",
+  "name": "Gosforth Library"
+  }
+},
+{    
+  "type": "Feature",
+  "geometry": {
+  "type": "Point",
+  "coordinates": [
+  -1.699978, 
+  54.992805 
+  ]
+  },
+  "properties": {
+  "marker-symbol": "library",
+  "marker-color": "##ff5555",
+  "marker-size": "medium",
+  "name": "Outer West Library"
+  }
+},
+{    
+  "type": "Feature",
+  "geometry": {
+  "type": "Point",
+  "coordinates": [
+  -1.606400,
+  54.993257 
+  ]
+  },
+  "properties": {
+  "marker-symbol": "library",
+  "marker-color": "#77aaff",
+  "marker-size": "medium",
+  "name": "Jesmond Library"
+  }
+},
+{    
+  "type": "Feature",
+  "geometry": {
+  "type": "Point",
+  "coordinates": [
+  -1.660852,
+  54.984157
+  ]
+  },
+  "properties": {
+  "marker-symbol": "library",
+  "marker-color": "#77aaff",
+  "marker-size": "medium",
+  "name": "Fenham Library"
+  }
+},
+{    
+  "type": "Feature",
+  "geometry": {
+  "type": "Point",
+  "coordinates": [
+  -1.661547,
+  54.970248 ]
+  },
+  "properties": {
+  "marker-symbol": "library",
+  "marker-color": "#77aaff",
+  "marker-size": "medium",
+  "name": "West End Library"
+  }
+},
+{    
+  "type": "Feature",
+  "geometry": {
+  "type": "Point",
+  "coordinates": [ -1.645966,
+  55.013724 ]
+  },
+  "properties": {
+  "marker-symbol": "library",
+  "marker-color": "#eeee55",
+  "marker-size": "medium",
+  "name": "Fawdon Library"
+  }
+},
+{    
+  "type": "Feature",
+  "geometry": {
+  "type": "Point",
+  "coordinates":[
+  -1.554416,
+  54.974818
+  ] },
+  "properties": {
+  "marker-symbol": "library",
+  "marker-color": "#77aaff",
+  "marker-size": "medium",
+  "name": "Walker Library"
+  }
+},
+{    
+  "type": "Feature",
+  "geometry": {
+  "type": "Point",
+  "coordinates": [
+  -1.673162,
+  54.994156
+  ] },
+  "properties": {
+  "marker-symbol": "library",
+  "marker-color": "##ff5555",
+  "marker-size": "medium",
+  "name": "Blakelaw Library"
+  }
+},
+{    
+  "type": "Feature",
+  "geometry": {
+  "type": "Point",
+  "coordinates": [
+  -1.585806,
+  54.995687
+  ] },
+  "properties": {
+  "marker-symbol": "library",
+  "marker-color": "#77aaff",
+  "marker-size": "medium",
+  "name": "High Heaton Library"
+  }
+},
+{    
+  "type": "Feature",
+  "geometry": {
+  "type": "Point",
+  "coordinates": [
+  -1.741789,
+  54.982675
+  ] },
+  "properties": {
+  "marker-symbol": "library",
+  "marker-color": "#77aaff",
+  "marker-size": "medium",
+  "name": "Newburn Library"
+  }
+},
+{    
+  "type": "Feature",
+  "geometry": {
+  "type": "Point",
+  "coordinates": [
+  -1.674954,
+  55.052975
+  ] },
+  "properties": {
+  "marker-symbol": "library",
+  "marker-color": "#ff5555",
+  "marker-size": "medium",
+  "name": "Dinnington Library"
+  }
+},
+{    
+  "type": "Feature",
+  "geometry": {
+  "type": "Point",
+  "coordinates": [
+  -1.687284,
+  54.983059
+  ] },
+  "properties": {
+  "marker-symbol": "library",
+  "marker-color": "#77aaff",
+  "marker-size": "medium",
+  "name": "Denton Burn Library"
+  }
+},
+
+{    
+  "type": "Feature",
+  "geometry": {
+  "type": "Point",
+  "coordinates": [
+  -1.653120,
+  55.005594     
+  ] },
+  "properties": {
+  "marker-symbol": "library",
+  "marker-color": "##ff5555",
+  "marker-size": "medium",
+  "name": "Kenton Library"
+  }
+},
+{ 
+  "type": "Feature", 
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -1.635681,
+    54.976958 
+    ]
+}, 
+"properties": { 
+  "marker-symbol": "library",
+  "marker-color": "#77aaff",
+  "marker-size": "medium",
+  "name": "Moorside Library"
+  } 
+},
+{ 
+  "type": "Feature", 
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+    -1.610344,
+    54.974884 
+    ] 
+  },
+  "properties": {
+    "marker-symbol": "library",
+    "marker-color": "#77aaff",
+    "marker-size": "medium",
+    "name": "City Library"
+  }
+},
+{ "type": "Feature",  
+  "geometry": { 
+    "type": "Point", 
+    "coordinates": [ 
+    -1.636921, 
+    54.965872
+  ]
+},
+"properties": {
+  "marker-symbol": "library",
+    "marker-color": "#77aaff",
+    "marker-size": "medium",
+  "name": "Cruddas Park Library"
+ }
+}
+
+
+]
+}
+
+
+
+
+
