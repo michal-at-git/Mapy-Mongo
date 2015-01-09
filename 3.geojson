@@ -227,7 +227,7 @@
   ] },
   "properties": {
   "marker-symbol": "library",
-  "marker-color": "##ff5555",
+  "marker-color": "#ff5555",
   "marker-size": "medium",
   "name": "Kenton Library"
   }
